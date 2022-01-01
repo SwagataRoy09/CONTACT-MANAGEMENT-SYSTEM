@@ -1,7 +1,4 @@
-import javax.xml.transform.Result;
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class ContactManagement {
@@ -39,12 +36,18 @@ public class ContactManagement {
     }
 
     static void search(String name) throws Exception {
-        String query = "select * from contacts where name='"+name+"'";
+        String query = "select * from contacts order by name";
         ResultSet rs = management().executeQuery(query);
-        if (query.equals(name)){
-            System.out.println(rs.getString(1)+rs.getString(2));
+        boolean flag = true;
+        while (rs.next()){
+            if (rs.getString(1).contains(name)){
+                flag=true;
+                System.out.println(rs.getString(1)+" "+rs.getString(2));
+            }
         }
-
+        if(!flag){
+            System.out.println(" NAME NOT FOUND ");
+        }
     }
 
     public static void main(String[] args) throws Exception {
