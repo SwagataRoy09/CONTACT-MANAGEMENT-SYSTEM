@@ -1,6 +1,12 @@
 Contact Management System is a full stack project which makes use of Java Database Connectivity to link the frontend with MySQL Database.The front end of this project is done using Java Swing.
 
+
+
+
 # CONTACT-MANAGEMENT-SYSTEM![addcontactimg](https://user-
+
+
+
 
 Uploading  2022-06-07 00-35-13.mp4![Uploading 2022-06-07 (2).pn![2022-06-07 (3)](https://user-images.githubusercontent.com/93351450/172230930-0cceb933-944e-4a25-9980-6bd5babf554d.png)
 ![2022-06-07 (4)](https://user-images.githubusercontent.com/93351450/172230932-5c045ccd-9aa7-4bcc-baba-7a5d5c3be1da.png)
@@ -14,5 +20,5 @@ Uploading  2022-06-07 00-35-13.mp4![Uploading 2022-06-07 (2).pn![2022-06-07 (3)]
 ![2022-06-07 (1)](https://user-images.githubusercontent.com/93351450/172230913-240eae1d-37fb-4a20-afe8-4287d5de0cbe.png)
 
 
-https://user-images.githubusercontent.com/93351450/172231028-c39ecc42-e1b6-43fd-852e-075c9e33fb91.mp4
+
 
