@@ -7,8 +7,19 @@ Contact Management System is a full stack project which makes use of Java Databa
 
 
 
+For the design part we used templates from Canva and customised.
 
-[Uploading 2022-06-07 (2).pn![2022-06-07 (3)](https://user-images.githubusercontent.com/93351450/172230930-0cceb933-944e-4a25-9980-6bd5babf554d.png)
+
+
+
+
+
+
+![2022-06-07](https://user-images.githubusercontent.com/93351450/172234369-bb8c3439-afcf-4fd8-967c-7c31e28604ce.png)
+mized them .
+
+
+
 ![2022-06-07 (4)](https://user-images.githubusercontent.com/93351450/172230932-5c045ccd-9aa7-4bcc-baba-7a5d5c3be1da.png)
 ![2022-06-07 (5)](https://user-images.githubusercontent.com/93351450/172230940-16c0175c-c14b-4988-86ac-216624164ab9.png)
 ![2022-06-07 (6)](https://user-images.githubusercontent.com/93351450/172230944-4cf139d4-bb2c-48e9-9680-e4aa01a23e86.png)
