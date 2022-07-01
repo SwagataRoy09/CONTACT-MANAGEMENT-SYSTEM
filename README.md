@@ -19,8 +19,6 @@
 ![2022-06-07](https://user-images.githubusercontent.com/93351450/172230957-1b58df10-bcbe-4364-8388-10a4c2511b4a.png)
 
 
-![2022-06-07 (1)](https://user-images.githubusercontent.com/93351450/1
-
 https://user-images.githubusercontent.com/93351450/172232052-cec2b2a3-3fb6-4a8d-a21d-9f75630d65c2.mp4
 
 https://user-images.githubusercontent.com/93351450/172232833-55b4ec75-cee8-4ff3-8099-0fa51fb312b6.mp4
