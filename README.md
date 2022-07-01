@@ -7,7 +7,7 @@
         </I></b></h3>
 
 ![2022-06-07](https://user-images.githubusercontent.com/93351450/172234369-bb8c3439-afcf-4fd8-967c-7c31e28604ce.png)
-mized them .
+
 
 
 
